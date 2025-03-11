@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.heading{
+  background-color: rgb(162,213,182);
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+  color: rgb(146,39,143);
+  margin-top: 20px;
+  line-height: 2.5rem;
+}
+.startQuiz{
+  display: inline-block;
+}
